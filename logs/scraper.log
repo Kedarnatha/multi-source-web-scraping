@@ -1,0 +1,135 @@
+2026-10-07 04:41:19,504 | INFO | __main__ | Starting multi-source scraping pipeline
+2026-10-07 04:41:19,506 | INFO | __main__ | Starting Books to Scrape
+2026-10-07 04:41:19,506 | INFO | scrapers.books_scraper | Scraping catalogue page 1: https://books.toscrape.com/catalogue/page-1.html
+2026-10-07 04:41:21,242 | INFO | scrapers.books_scraper | Found 20 books on page 1
+2026-10-07 04:41:26,483 | INFO | scrapers.books_scraper | Scraping catalogue page 2: https://books.toscrape.com/catalogue/page-2.html
+2026-10-07 04:41:26,767 | INFO | scrapers.books_scraper | Found 20 books on page 2
+2026-10-07 04:41:31,983 | INFO | scrapers.books_scraper | Scraping catalogue page 3: https://books.toscrape.com/catalogue/page-3.html
+2026-10-07 04:41:32,289 | INFO | scrapers.books_scraper | Found 20 books on page 3
+2026-10-07 04:41:37,607 | INFO | scrapers.books_scraper | Scraping catalogue page 4: https://books.toscrape.com/catalogue/page-4.html
+2026-10-07 04:41:37,884 | INFO | scrapers.books_scraper | Found 20 books on page 4
+2026-10-07 04:41:43,177 | INFO | scrapers.books_scraper | Scraping catalogue page 5: https://books.toscrape.com/catalogue/page-5.html
+2026-10-07 04:41:43,469 | INFO | scrapers.books_scraper | Found 20 books on page 5
+2026-10-07 04:41:48,677 | INFO | scrapers.books_scraper | Scraping catalogue page 6: https://books.toscrape.com/catalogue/page-6.html
+2026-10-07 04:41:48,988 | INFO | scrapers.books_scraper | Found 20 books on page 6
+2026-10-07 04:41:54,355 | INFO | scrapers.books_scraper | Scraping catalogue page 7: https://books.toscrape.com/catalogue/page-7.html
+2026-10-07 04:41:54,656 | INFO | scrapers.books_scraper | Found 20 books on page 7
+2026-10-07 04:41:59,848 | INFO | scrapers.books_scraper | Scraping catalogue page 8: https://books.toscrape.com/catalogue/page-8.html
+2026-10-07 04:42:00,132 | INFO | scrapers.books_scraper | Found 20 books on page 8
+2026-10-07 04:42:05,371 | INFO | scrapers.books_scraper | Scraping catalogue page 9: https://books.toscrape.com/catalogue/page-9.html
+2026-10-07 04:42:05,657 | INFO | scrapers.books_scraper | Found 20 books on page 9
+2026-10-07 04:42:10,915 | INFO | scrapers.books_scraper | Scraping catalogue page 10: https://books.toscrape.com/catalogue/page-10.html
+2026-10-07 04:42:11,218 | INFO | scrapers.books_scraper | Found 20 books on page 10
+2026-10-07 04:42:16,407 | INFO | scrapers.books_scraper | Scraping catalogue page 11: https://books.toscrape.com/catalogue/page-11.html
+2026-10-07 04:42:16,689 | INFO | scrapers.books_scraper | Found 20 books on page 11
+2026-10-07 04:42:22,008 | INFO | scrapers.books_scraper | Scraping catalogue page 12: https://books.toscrape.com/catalogue/page-12.html
+2026-10-07 04:42:22,308 | INFO | scrapers.books_scraper | Found 20 books on page 12
+2026-10-07 04:42:27,616 | INFO | scrapers.books_scraper | Scraping catalogue page 13: https://books.toscrape.com/catalogue/page-13.html
+2026-10-07 04:42:27,924 | INFO | scrapers.books_scraper | Found 20 books on page 13
+2026-10-07 04:42:33,198 | INFO | scrapers.books_scraper | Scraping catalogue page 14: https://books.toscrape.com/catalogue/page-14.html
+2026-10-07 04:42:33,493 | INFO | scrapers.books_scraper | Found 20 books on page 14
+2026-10-07 04:42:38,758 | INFO | scrapers.books_scraper | Scraping catalogue page 15: https://books.toscrape.com/catalogue/page-15.html
+2026-10-07 04:42:39,050 | INFO | scrapers.books_scraper | Found 20 books on page 15
+2026-10-07 04:42:44,181 | INFO | scrapers.books_scraper | Scraping catalogue page 16: https://books.toscrape.com/catalogue/page-16.html
+2026-10-07 04:42:44,455 | INFO | scrapers.books_scraper | Found 20 books on page 16
+2026-10-07 04:42:49,684 | INFO | scrapers.books_scraper | Scraping catalogue page 17: https://books.toscrape.com/catalogue/page-17.html
+2026-10-07 04:42:49,971 | INFO | scrapers.books_scraper | Found 20 books on page 17
+2026-10-07 04:42:55,267 | INFO | scrapers.books_scraper | Scraping catalogue page 18: https://books.toscrape.com/catalogue/page-18.html
+2026-10-07 04:42:55,549 | INFO | scrapers.books_scraper | Found 20 books on page 18
+2026-10-07 04:43:00,871 | INFO | scrapers.books_scraper | Scraping catalogue page 19: https://books.toscrape.com/catalogue/page-19.html
+2026-10-07 04:43:01,174 | INFO | scrapers.books_scraper | Found 20 books on page 19
+2026-10-07 04:43:06,427 | INFO | scrapers.books_scraper | Scraping catalogue page 20: https://books.toscrape.com/catalogue/page-20.html
+2026-10-07 04:43:06,734 | INFO | scrapers.books_scraper | Found 20 books on page 20
+2026-10-07 04:43:12,098 | INFO | scrapers.books_scraper | Scraping catalogue page 21: https://books.toscrape.com/catalogue/page-21.html
+2026-10-07 04:43:12,392 | INFO | scrapers.books_scraper | Found 20 books on page 21
+2026-10-07 04:43:17,675 | INFO | scrapers.books_scraper | Scraping catalogue page 22: https://books.toscrape.com/catalogue/page-22.html
+2026-10-07 04:43:17,963 | INFO | scrapers.books_scraper | Found 20 books on page 22
+2026-10-07 04:43:23,293 | INFO | scrapers.books_scraper | Scraping catalogue page 23: https://books.toscrape.com/catalogue/page-23.html
+2026-10-07 04:43:23,592 | INFO | scrapers.books_scraper | Found 20 books on page 23
+2026-10-07 04:43:28,860 | INFO | scrapers.books_scraper | Scraping catalogue page 24: https://books.toscrape.com/catalogue/page-24.html
+2026-10-07 04:43:29,137 | INFO | scrapers.books_scraper | Found 20 books on page 24
+2026-10-07 04:43:34,359 | INFO | scrapers.books_scraper | Scraping catalogue page 25: https://books.toscrape.com/catalogue/page-25.html
+2026-10-07 04:43:34,635 | INFO | scrapers.books_scraper | Found 20 books on page 25
+2026-10-07 04:43:39,800 | INFO | scrapers.books_scraper | Scraping catalogue page 26: https://books.toscrape.com/catalogue/page-26.html
+2026-10-07 04:43:40,079 | INFO | scrapers.books_scraper | Found 20 books on page 26
+2026-10-07 04:43:45,259 | INFO | scrapers.books_scraper | Scraping catalogue page 27: https://books.toscrape.com/catalogue/page-27.html
+2026-10-07 04:43:45,537 | INFO | scrapers.books_scraper | Found 20 books on page 27
+2026-10-07 04:43:51,616 | INFO | scrapers.books_scraper | Scraping catalogue page 28: https://books.toscrape.com/catalogue/page-28.html
+2026-10-07 04:43:51,893 | INFO | scrapers.books_scraper | Found 20 books on page 28
+2026-10-07 04:43:57,072 | INFO | scrapers.books_scraper | Scraping catalogue page 29: https://books.toscrape.com/catalogue/page-29.html
+2026-10-07 04:43:57,357 | INFO | scrapers.books_scraper | Found 20 books on page 29
+2026-10-07 04:44:02,534 | INFO | scrapers.books_scraper | Scraping catalogue page 30: https://books.toscrape.com/catalogue/page-30.html
+2026-10-07 04:44:02,813 | INFO | scrapers.books_scraper | Found 20 books on page 30
+2026-10-07 04:44:07,991 | INFO | scrapers.books_scraper | Scraping catalogue page 31: https://books.toscrape.com/catalogue/page-31.html
+2026-10-07 04:44:08,266 | INFO | scrapers.books_scraper | Found 20 books on page 31
+2026-10-07 04:44:13,454 | INFO | scrapers.books_scraper | Scraping catalogue page 32: https://books.toscrape.com/catalogue/page-32.html
+2026-10-07 04:44:13,741 | INFO | scrapers.books_scraper | Found 20 books on page 32
+2026-10-07 04:44:18,910 | INFO | scrapers.books_scraper | Scraping catalogue page 33: https://books.toscrape.com/catalogue/page-33.html
+2026-10-07 04:44:19,198 | INFO | scrapers.books_scraper | Found 20 books on page 33
+2026-10-07 04:44:24,371 | INFO | scrapers.books_scraper | Scraping catalogue page 34: https://books.toscrape.com/catalogue/page-34.html
+2026-10-07 04:44:24,649 | INFO | scrapers.books_scraper | Found 20 books on page 34
+2026-10-07 04:44:29,801 | INFO | scrapers.books_scraper | Scraping catalogue page 35: https://books.toscrape.com/catalogue/page-35.html
+2026-10-07 04:44:30,084 | INFO | scrapers.books_scraper | Found 20 books on page 35
+2026-10-07 04:44:35,284 | INFO | scrapers.books_scraper | Scraping catalogue page 36: https://books.toscrape.com/catalogue/page-36.html
+2026-10-07 04:44:35,562 | INFO | scrapers.books_scraper | Found 20 books on page 36
+2026-10-07 04:44:40,764 | INFO | scrapers.books_scraper | Scraping catalogue page 37: https://books.toscrape.com/catalogue/page-37.html
+2026-10-07 04:44:41,042 | INFO | scrapers.books_scraper | Found 20 books on page 37
+2026-10-07 04:44:46,246 | INFO | scrapers.books_scraper | Scraping catalogue page 38: https://books.toscrape.com/catalogue/page-38.html
+2026-10-07 04:44:46,524 | INFO | scrapers.books_scraper | Found 20 books on page 38
+2026-10-07 04:44:51,695 | INFO | scrapers.books_scraper | Scraping catalogue page 39: https://books.toscrape.com/catalogue/page-39.html
+2026-10-07 04:44:51,961 | INFO | scrapers.books_scraper | Found 20 books on page 39
+2026-10-07 04:44:57,159 | INFO | scrapers.books_scraper | Scraping catalogue page 40: https://books.toscrape.com/catalogue/page-40.html
+2026-10-07 04:44:57,438 | INFO | scrapers.books_scraper | Found 20 books on page 40
+2026-10-07 04:45:02,707 | INFO | scrapers.books_scraper | Scraping catalogue page 41: https://books.toscrape.com/catalogue/page-41.html
+2026-10-07 04:45:03,011 | INFO | scrapers.books_scraper | Found 20 books on page 41
+2026-10-07 04:45:08,267 | INFO | scrapers.books_scraper | Scraping catalogue page 42: https://books.toscrape.com/catalogue/page-42.html
+2026-10-07 04:45:08,550 | INFO | scrapers.books_scraper | Found 20 books on page 42
+2026-10-07 04:45:13,786 | INFO | scrapers.books_scraper | Scraping catalogue page 43: https://books.toscrape.com/catalogue/page-43.html
+2026-10-07 04:45:14,072 | INFO | scrapers.books_scraper | Found 20 books on page 43
+2026-10-07 04:45:19,338 | INFO | scrapers.books_scraper | Scraping catalogue page 44: https://books.toscrape.com/catalogue/page-44.html
+2026-10-07 04:45:19,656 | INFO | scrapers.books_scraper | Found 20 books on page 44
+2026-10-07 04:45:24,911 | INFO | scrapers.books_scraper | Scraping catalogue page 45: https://books.toscrape.com/catalogue/page-45.html
+2026-10-07 04:45:25,207 | INFO | scrapers.books_scraper | Found 20 books on page 45
+2026-10-07 04:45:30,472 | INFO | scrapers.books_scraper | Scraping catalogue page 46: https://books.toscrape.com/catalogue/page-46.html
+2026-10-07 04:45:30,755 | INFO | scrapers.books_scraper | Found 20 books on page 46
+2026-10-07 04:45:36,580 | INFO | scrapers.books_scraper | Scraping catalogue page 47: https://books.toscrape.com/catalogue/page-47.html
+2026-10-07 04:45:36,877 | INFO | scrapers.books_scraper | Found 20 books on page 47
+2026-10-07 04:45:42,034 | INFO | scrapers.books_scraper | Scraping catalogue page 48: https://books.toscrape.com/catalogue/page-48.html
+2026-10-07 04:45:42,313 | INFO | scrapers.books_scraper | Found 20 books on page 48
+2026-10-07 04:45:47,488 | INFO | scrapers.books_scraper | Scraping catalogue page 49: https://books.toscrape.com/catalogue/page-49.html
+2026-10-07 04:45:47,760 | INFO | scrapers.books_scraper | Found 20 books on page 49
+2026-10-07 04:45:52,918 | INFO | scrapers.books_scraper | Scraping catalogue page 50: https://books.toscrape.com/catalogue/page-50.html
+2026-10-07 04:45:53,197 | INFO | scrapers.books_scraper | Found 20 books on page 50
+2026-10-07 04:45:58,356 | INFO | scrapers.books_scraper | Finished scraping. Total books: 1000
+2026-10-07 04:45:58,357 | INFO | __main__ | Books scraped: 1000
+2026-10-07 04:45:58,357 | INFO | __main__ | Starting Quotes to Scrape
+2026-10-07 04:45:58,357 | INFO | scrapers.quotes_scraper | Scraping quotes page 1: https://quotes.toscrape.com/
+2026-10-07 04:45:59,749 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 1
+2026-10-07 04:45:59,750 | INFO | scrapers.quotes_scraper | Scraping quotes page 2: https://quotes.toscrape.com/page/2/
+2026-10-07 04:46:00,007 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 2
+2026-10-07 04:46:00,008 | INFO | scrapers.quotes_scraper | Scraping quotes page 3: https://quotes.toscrape.com/page/3/
+2026-10-07 04:46:00,264 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 3
+2026-10-07 04:46:00,264 | INFO | scrapers.quotes_scraper | Scraping quotes page 4: https://quotes.toscrape.com/page/4/
+2026-10-07 04:46:00,536 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 4
+2026-10-07 04:46:00,537 | INFO | scrapers.quotes_scraper | Scraping quotes page 5: https://quotes.toscrape.com/page/5/
+2026-10-07 04:46:00,797 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 5
+2026-10-07 04:46:00,797 | INFO | scrapers.quotes_scraper | Scraping quotes page 6: https://quotes.toscrape.com/page/6/
+2026-10-07 04:46:01,064 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 6
+2026-10-07 04:46:01,064 | INFO | scrapers.quotes_scraper | Scraping quotes page 7: https://quotes.toscrape.com/page/7/
+2026-10-07 04:46:01,329 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 7
+2026-10-07 04:46:01,329 | INFO | scrapers.quotes_scraper | Scraping quotes page 8: https://quotes.toscrape.com/page/8/
+2026-10-07 04:46:01,589 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 8
+2026-10-07 04:46:01,589 | INFO | scrapers.quotes_scraper | Scraping quotes page 9: https://quotes.toscrape.com/page/9/
+2026-10-07 04:46:01,851 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 9
+2026-10-07 04:46:01,852 | INFO | scrapers.quotes_scraper | Scraping quotes page 10: https://quotes.toscrape.com/page/10/
+2026-10-07 04:46:02,110 | INFO | scrapers.quotes_scraper | Found 10 quotes on page 10
+2026-10-07 04:46:02,111 | INFO | scrapers.quotes_scraper | Finished scraping. Total quotes: 100
+2026-10-07 04:46:02,111 | INFO | __main__ | Quotes scraped: 100
+2026-10-07 04:46:02,111 | INFO | __main__ | Total raw records: 1100
+2026-10-07 04:46:02,142 | INFO | processing.processor | Cleaned 1100 records
+2026-10-07 04:46:02,147 | INFO | processing.processor | Validation complete: 1100 valid, 0 rejected
+2026-10-07 04:46:02,150 | INFO | processing.processor | Duplicate record removed: The Star-Touched Queen
+2026-10-07 04:46:02,156 | INFO | processing.processor | Deduplication complete: 1099 unique, 1 duplicates
+2026-10-07 04:46:02,223 | INFO | __main__ | Final CSV written to output\final_dataset.csv
+2026-10-07 04:46:02,238 | INFO | __main__ | Summary report written to output\summary_report.json
+2026-10-07 04:46:02,238 | INFO | __main__ | Pipeline completed successfully

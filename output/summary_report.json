@@ -1,0 +1,25 @@
+{
+    "execution_started_at": "2026-10-06T23:11:19.504214+00:00",
+    "execution_time_seconds": 282.72,
+    "total_raw_records": 1100,
+    "total_after_cleaning": 1100,
+    "total_rejected_records": 0,
+    "total_duplicates_removed": 1,
+    "final_record_count": 1099,
+    "sources": {
+        "Books to Scrape": {
+            "raw_records": 1000,
+            "after_cleaning": 1000,
+            "rejected_records": 0,
+            "duplicates_removed": 1,
+            "final_records": 999
+        },
+        "Quotes to Scrape": {
+            "raw_records": 100,
+            "after_cleaning": 100,
+            "rejected_records": 0,
+            "duplicates_removed": 0,
+            "final_records": 100
+        }
+    }
+}
